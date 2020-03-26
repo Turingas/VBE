@@ -1,8 +1,6 @@
 check50:
   files:
     - !exclude "*"
-    - !require U1.c
-    - !require U1rez.txt
     - !require programa.cpp
 
 lab50:
