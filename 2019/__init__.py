@@ -4,14 +4,14 @@ import filecmp
 
 @check50.check()
 def exists():
-    """U1.c egzistuoja"""
-    check50.exists("U1.c")
+    """programa.cpp egzistuoja"""
+    check50.exists("programa.cpp")
     check50.include("1.txt", "2.txt")
 
-@check50.check(exists)
-def compiles():
-    """U1.c kompiliuojasi"""
-    check50.c.compile("U1.c", lcs50=True)
+#@check50.check(exists)
+#def compiles():
+#    """U1.c kompiliuojasi"""
+#    check50.c.compile("U1.c", lcs50=True)
 
 #bandymas patikrinti ar .cpp file'as kompiliuojasi
 # bet neveikia: error: invalid argument '-std=c11' not allowed with 'C++'
