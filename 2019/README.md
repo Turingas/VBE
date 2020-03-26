@@ -1,4 +1,4 @@
-# Tutorial „išpręskime VBE IT užduotį“
+# Išpręskime VBE IT 2019 metų užduotį „Aliejus“
 
 {% spoiler "IT egzamino uzduotis :scream:"%}
 
@@ -69,7 +69,7 @@ RTFM
 
 {% endspoiler %}
 
-{% spoiler "Skaldyk ir valdyk :sunglasses:" %}
+{% spoiler "Algoritminis mąstymas :sunglasses:" %}
 ![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
 {% endspoiler %} 
 
