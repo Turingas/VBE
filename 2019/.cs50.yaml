@@ -1,0 +1,17 @@
+check50:
+  files:
+    - !exclude "*"
+    - !require U1.c
+    - !require U1rez.txt
+    - !require testU1.cpp
+
+lab50:
+  files:
+    - !exclude "*"
+    - !include "U1.txt"
+    - !include "U1.c"
+    
+submit50:
+  files:
+    - !exclude "*"
+    - !include "U1.c"
