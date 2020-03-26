@@ -3,15 +3,15 @@ check50:
     - !exclude "*"
     - !require U1.c
     - !require U1rez.txt
-    - !require testU1.cpp
+    - !require programa.cpp
 
 lab50:
   files:
     - !exclude "*"
+    - !include "programa.cpp"
     - !include "U1.txt"
-    - !include "U1.c"
-    
+
 submit50:
   files:
     - !exclude "*"
-    - !include "U1.c"
+    - !include "programa.cpp"
