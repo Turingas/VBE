@@ -82,7 +82,7 @@ RTFM
 ![Image of point left](https://media1.giphy.com/media/1n9At3XeXvyVZdydfK/giphy.gif)
 
 
-{% spoiler "Užuomina 1: <b>Rašymas į bylą</b> " %}
+{% spoiler "Užuomina 1: Rašymas į bylą" %}
 Įsisavink duomenų rašymą į bylą šioje nuorodoje:
 http://www.cplusplus.com/doc/tutorial/files/
 {% endspoiler %} 
