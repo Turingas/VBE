@@ -1,2 +1,1 @@
-# VBE
-Turing School in action!
+# Turing School ir cool!
