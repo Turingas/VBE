@@ -64,7 +64,7 @@ kiek litrų aliejaus liko neišpilstyta.
 {% endspoiler %}
 
 {% spoiler "Tekstinis vedlys :page_with_curl:" %}
-RTFM
+Vieta Jūsų detaliam aprašymui
 {% endspoiler %} 
 
 {% endspoiler %}
