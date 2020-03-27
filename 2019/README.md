@@ -71,11 +71,6 @@ RTFM
 
 {% spoiler "Algoritminis mąstymas :sunglasses:" %}
 ![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
-1. Sukompiliuokite savo programą
-1. Paleiskite savo programą
-1. Parašykite kodą:
-    1. Atspausdinti kiek aliejaus yra išpilstyta ir kiek jo liko
-    1. ir t.t.
 {% endspoiler %} 
 
 {% spoiler "Programavimas :computer:" %}
