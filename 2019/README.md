@@ -78,7 +78,7 @@ RTFM
 
 
 {% spoiler "Užuomina 1: Rašymas į bylą" %}
-Įsisavink duomenų rašymą į bylą iš šitos nuorodos:
+## Įsisavink duomenų rašymą į bylą iš šitos nuorodos:
 http://www.cplusplus.com/doc/tutorial/files/
 {% endspoiler %} 
 
