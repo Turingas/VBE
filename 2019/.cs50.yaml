@@ -2,6 +2,7 @@ check50:
   files:
     - !exclude "*"
     - !require programa.cpp
+    - !require U1rez.txt
 
 lab50:
   files:
