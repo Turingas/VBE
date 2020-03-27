@@ -71,6 +71,11 @@ Vieta Jūsų detaliam aprašymui
 
 {% spoiler "Algoritminis mąstymas :sunglasses:" %}
 ![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
+1. Sukompiliuokite savo programą
+1. Paleiskite programa
+1. Parasykite koda:
+    1. Atspausdinkite kiek aliejaus yra ispilstyta ir kiek jo liko
+    1.  ir t.t.
 {% endspoiler %} 
 
 {% spoiler "Programavimas :computer:" %}
