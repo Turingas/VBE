@@ -71,17 +71,16 @@ RTFM
 
 {% spoiler "Algoritminis mąstymas :sunglasses:" %}
 ![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
+1. Sukompiliuokite savo programą
+1. Paleiskite savo programą
+1. Parašykite kodą:
+  1. Atspausdinti kiek aliejaus yra išpilstyta ir kiek jo liko
+  1. ir t.t.
 {% endspoiler %} 
 
 {% spoiler "Programavimas :computer:" %}
 Pereikime prie dešinės ekrano pusės
 ![Image of point left](https://media1.giphy.com/media/1n9At3XeXvyVZdydfK/giphy.gif)
-
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-
 {% endspoiler %} 
 
 {% spoiler "2020 IT VBE užduotys :trollface:" %}
