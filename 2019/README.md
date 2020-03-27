@@ -88,9 +88,11 @@ http://www.cplusplus.com/doc/tutorial/files/
 {% endspoiler %} 
 
 {% spoiler "Užuomina 2: masyvų naudojimas" %}
+http://coderland.lt/masyvai
 {% endspoiler %} 
 
 {% spoiler "Užuomina 3: Algoritmas" %}
+Tu gali :D
 {% endspoiler %} 
 
 {% endspoiler %} 
