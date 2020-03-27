@@ -13,7 +13,7 @@ def isOutput():
     """Rastas U1rez.txt"""
     check50.exists("U1rez.txt")
     
-@check50.check(isOutput)    
+@check50.check1(isOutput)    
 def read_first_file_line():
     """Ar teisingai apskaičiuoja pripiltų indų ir likusio aliejaus skaičius?"""
     compare_files(open("U1rez.txt").readline(), open("1.txt").readline())
@@ -21,8 +21,6 @@ def read_first_file_line():
 @check50.check(isOutput)
 def test1():
     """Tikrina užduoties "Aliejus" korektišką atlikimą"""
-#    out = check50.run("./U1 U1rez.txt").stdin("8").stdout()
-#    compare_files(out, open("1.txt").read())
     compare_files(open("U1rez.txt").read(), open("1.txt").read())
 
 def compare_files(output, correct):
@@ -30,6 +28,15 @@ def compare_files(output, correct):
         return 
     raise check50.Mismatch(correct, output, help= None)
 
+def compare_files1(output, correct):
+    if output == correct:
+        return
+    
+    help = None
+    if output[0] != correct[0]:
+        help = "Vieno litro indo pripilymas apskaičiuotas neteisingai"
+    raise check50.Mismatch(correct, output, help= help)    
+    
 #@check50.check(exists)
 #def compiles():
 #    """U1.c kompiliuojasi"""
