@@ -35,7 +35,7 @@ def compare_files1(output, correct):
     help = None
     if output[0] != correct[0]:
         help = "Vieno litro indo pripilymas apskaičiuotas neteisingai"
-    raise check50.Mismatch(correct, output, help= help)    
+    raise check50.Mismatch(correct, output, help=help)    
     
 #@check50.check(exists)
 #def compiles():
