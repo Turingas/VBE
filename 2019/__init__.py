@@ -13,10 +13,10 @@ def isOutput():
     """Rastas U1rez.txt"""
     check50.exists("U1rez.txt")
     
-@check50.check1(isOutput)    
+@check50.check(isOutput)    
 def read_first_file_line():
     """Ar teisingai apskaičiuoja pripiltų indų ir likusio aliejaus skaičius?"""
-    compare_files(open("U1rez.txt").readline(), open("1.txt").readline())
+    compare_files1(open("U1rez.txt").readline(), open("1.txt").readline())
     
 @check50.check(isOutput)
 def test1():
