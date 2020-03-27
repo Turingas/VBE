@@ -71,6 +71,9 @@ RTFM
 
 {% spoiler "Algoritminis mąstymas :sunglasses:" %}
 ![Image of To-Do](https://pbs.twimg.com/media/C1jVr21XcAAosxF.jpg)
+1. kažkas
+1. kažkas
+    1. blah blah
 {% endspoiler %} 
 
 {% spoiler "Programavimas :computer:" %}
