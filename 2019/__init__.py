@@ -8,10 +8,10 @@ def exists():
     check50.exists("programa.cpp")
     check50.include("1.txt", "2.txt")
     
-#@check50.check(exists)
-#def isOutput():
-#    """Rastas U1rez.txt"""
-#    check50.exists("U1rez.txt")
+@check50.check(exists)
+def isOutput():
+    """Rastas U1rez.txt"""
+    check50.exists("U1rez.txt")
     
 @check50.check(exists)    
 def read_first_file_line():
