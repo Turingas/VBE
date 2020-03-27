@@ -8,6 +8,7 @@ lab50:
     - !exclude "*"
     - !include "programa.cpp"
     - !include "U1.txt"
+    - !include "U1rez.txt"
 
 submit50:
   files:
