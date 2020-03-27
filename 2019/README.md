@@ -82,16 +82,16 @@ RTFM
 ![Image of point left](https://media1.giphy.com/media/1n9At3XeXvyVZdydfK/giphy.gif)
 
 
-{% spoiler "Užuomina 1: rašymas į bylą " %}
+{% spoiler "Užuomina 1: <b>Rašymas į bylą</b> " %}
 Įsisavink duomenų rašymą į bylą šioje nuorodoje:
 http://www.cplusplus.com/doc/tutorial/files/
 {% endspoiler %} 
 
-{% spoiler "Užuomina 2: masyvų naudojimas" %}
+{% spoiler "Užuomina 2: Masyvų naudojimas" %}
 http://coderland.lt/masyvai
 {% endspoiler %} 
 
-{% spoiler "Užuomina 3: Algoritmas" %}
+{% spoiler "Užuomina 3: Algoritmo sugalvojimas" %}
 Tu gali :D
 {% endspoiler %} 
 
