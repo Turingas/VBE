@@ -91,6 +91,10 @@ http://coderland.lt/masyvai
 Tu gali :D
 {% endspoiler %} 
 
+{% spoiler "Užuomina n:" %}
+Tu gerai varai!
+{% endspoiler %} 
+
 {% endspoiler %} 
 
 {% spoiler "2020 IT VBE užduotys :trollface:" %}
