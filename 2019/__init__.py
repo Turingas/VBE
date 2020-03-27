@@ -18,7 +18,7 @@ def read_first_file_line():
     """Ar teisingai apskaičiuoja pripiltų indų ir likusio aliejaus skaičius?"""
     compare_files1(open("U1rez.txt").readline(), open("1.txt").readline())
     
-@check50.check(isOutput)
+@check50.check(read_first_file_line)
 def test1():
     """Tikrina užduoties "Aliejus" korektišką atlikimą"""
     compare_files(open("U1rez.txt").read(), open("1.txt").read())
