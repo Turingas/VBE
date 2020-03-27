@@ -83,11 +83,12 @@ RTFM
 
 
 {% spoiler "Užuomina 1: Rašymas į bylą" %}
-Įsisavink duomenų rašymą į bylą šioje nuorodoje:
+Įsisavink duomenų rašymą į bylą iš šitos nuorodos:
 http://www.cplusplus.com/doc/tutorial/files/
 {% endspoiler %} 
 
 {% spoiler "Užuomina 2: Masyvų naudojimas" %}
+Įsisavink masyvų naudojimą iš šitos nuorodos:
 http://coderland.lt/masyvai
 {% endspoiler %} 
 
